@@ -1,1 +1,1 @@
-webshopappkz.heroku.com
+webshopappkz.herokuapp.com
